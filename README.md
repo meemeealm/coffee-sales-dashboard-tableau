@@ -20,6 +20,8 @@ These dashboards presents the following reports -
 📈 Revenue Trends Over Time (monthly growth analysis) and Forecasting upcoming quater
 
 <br/>
+> ![Link to Tableau Dashboard](https://public.tableau.com/views/CoffeeSalesDashboard_17573663669700/CoffeeSalesinsights?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+<br/>
 
 ![Dashboard View 1](https://github.com/meemeealm/coffee-sales-dashboard-tableau/blob/main/dashboard_1.png)
 <br/>
