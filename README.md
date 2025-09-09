@@ -21,7 +21,7 @@ These dashboards presents the following reports -
 
 <br/>
 
-![Link to Tableau Dashboard](https://public.tableau.com/views/CoffeeSalesDashboard_17573663669700/CoffeeSalesinsights?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Link to Tableau Dashboard](https://public.tableau.com/views/CoffeeSalesDashboard_17573663669700/CoffeeSalesinsights?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 <br/>
 
